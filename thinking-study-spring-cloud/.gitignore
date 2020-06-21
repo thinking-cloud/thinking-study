@@ -1,0 +1,16 @@
+*.class
+*.war
+*.ear
+*.iml
+*.log
+
+.classpath
+.project
+.idea
+.factorypath
+.metadata
+
+*/target
+*/.settings
+.settings
+*/bin/
